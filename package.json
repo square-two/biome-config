@@ -1,0 +1,16 @@
+{
+  "name": "@square2/biome-config",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "exports": {
+    "./biome": "./biome.json"
+  },
+  "keywords": [],
+  "author": "Jurmerlo",
+  "license": "MIT",
+  "packageManager": "pnpm@10.11.0",
+  "dependencies": {
+    "@biomejs/biome": "2.2.0"
+  }
+}
