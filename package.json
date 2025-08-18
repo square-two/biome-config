@@ -10,7 +10,7 @@
   "author": "Jurmerlo",
   "license": "MIT",
   "packageManager": "pnpm@10.11.0",
-  "dependencies": {
-    "@biomejs/biome": "2.2.0"
+  "peerDependencies": {
+    "@biomejs/biome": "^2.2.0"
   }
 }
