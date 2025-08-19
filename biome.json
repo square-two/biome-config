@@ -28,7 +28,8 @@
         "noUnusedImports": "error"
       },
       "nursery": {
-        "useExplicitType": "error"
+        "useExplicitType": "error",
+        "useMaxParams": "error"
       },
       "suspicious": {
         "useAwait": "error"
